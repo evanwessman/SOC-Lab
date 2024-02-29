@@ -8,12 +8,14 @@
 
 <h2>Environments and Utilities Used</h2>
 
+- <b>VMWare WorkStation</b>
+- <b>Windows 11 DevEval</b>
+- <b>Ubuntu Server 22.04.1</b>
+- <b>LimaCharlie EDR</b>
+- <b>Sliver Command & Control (C2) Server</b>
 - <b>PowerShell</b> 
 - <b>Windows Command Prompt & Linux Terminal</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
 
 <h2>Project walk-through:</h2>
 
