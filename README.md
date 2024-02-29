@@ -10,7 +10,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Environments and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Windows Command Prompt & Linux Terminal</b>
 
 <h2>Environments Used </h2>
 
