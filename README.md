@@ -1,4 +1,4 @@
-<h1>So you want to be a SOC Analyst?</h1>
+<h1>SOC Analyst Home Lab</h1>
 
 
 <h2>Description</h2>
