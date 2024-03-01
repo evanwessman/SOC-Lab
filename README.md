@@ -2,7 +2,14 @@
 
 
 <h2>Description</h2>
- Project consists of a 
+Security Operations Center (SOC) analysts play a crucial role in maintaining the security posture of organizations by monitoring, analyzing, and responding to security incidents. While looking for projects to gain hands on experience outside of my academic labs I heard about this project from Eric Capuano (Recon InfoSec) via Gerald Auger (SimplyCyber) . Eric's substack blog "So you want to be a SOC Analyst" was a great resource; explaining the scope, process and execution of creating a home SOC lab where I accomplished the following :
+<br/><br/>
+- Configured VMware with Windows and Ubuntu VMs<br/>
+- Managed Windows VM: disabled Defender, prevented standby, installed Sysmon, and deployed LimaCharlie EDR<br/>
+- Set up Sliver C2 server on Ubuntu VM, executed payload on Windows, and analyzed EDR telemetry<br/>
+- Developed & implemented blocking rule in LimaCharlie, proficient in crafting detection rules, and used baselining to reduce false positives<br/>
+- Automated YARA scanning in LimaCharlie, developed rules for scanning files and processes, and created D&R rules for new .exe files in Downloads<br/>
+
 <br />
 
 
