@@ -27,7 +27,7 @@ Security Operations Center (SOC) analysts play a crucial role in maintaining the
 <h2>Project walk-through:</h2>
 
 <p align="center">
-To start things off I already had VMWare Workstation and just had to acquire ISO's for Windows 11 DevEval and Ubuntu Server from their respective websites. <br />
+To start things off I already had VMWare Workstation Pro and just had to acquire fresh ISO's for Windows 11 DevEval and Ubuntu Server from their respective websites. <br />
 <br />
 Setting up the Ubuntu Server was quick and easy, just had to get the virtual network's SubNet IP and Gateway IP to setup manual ipv4 instead of dhcp, note our static ip for remote SSH conenction, and install OpenSSH server.<br />
 <br />
